@@ -1,0 +1,2 @@
+# IF816_Metodos_Numericos_Computacionais
+Repositório dedicado a disciplina de Métodos Numéricos Computacionais
