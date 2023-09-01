@@ -1,11 +1,11 @@
 # IF816_Metodos_Numericos_Computacionais
 Repositório dedicado a disciplina de Métodos Numéricos Computacionais
 
-- **Lista 1 -** 9,65
 - **AC1 -** 10
+- **Lista 1 -** 9,65
 - **Lista 2.1 -** 10
 - **Lista 2.2 -** 8,6
+- **AC3 -** 10
 - **Lista 3 -** ...
-- **AC3 -** ...
 - **Lista 4.1 -** ...
 - **Lista 4.2 -** ...
