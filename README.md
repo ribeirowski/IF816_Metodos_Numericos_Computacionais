@@ -8,4 +8,4 @@ Repositório dedicado a disciplina de Métodos Numéricos Computacionais
 - **AC3 -** 10
 - **Lista 3 -** 8,2
 - **Lista 4.1 -** 9,1
-- **Lista 4.2 -** ...
+- **Lista 4.2 -** 9,9
